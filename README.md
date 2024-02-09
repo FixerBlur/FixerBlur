@@ -50,16 +50,19 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 </br>
 </br>
 
-<hr>
+---
+
+ # Contact me:
 </br>
 <p align="center">
-  # Contact me:
-<br>
+
 <a target="_blank" href="https://t.me/fixerblur"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/TELEGRAM.svg"></img></a>
 <a target="_blank" href="mailto:fixerblur@outlook.com"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/OUTLOOK.svg"></img></a>
 <a target="_blank" href="https://twitter.com/fixerblurGG"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/X.svg"></img></a>
 <a target="_blank" href="username:fixerblur"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/DISCORD.svg"></img></a>
-
 <br>
-</p>  
+</p>
+</br>
+</br>
+</br> 
 

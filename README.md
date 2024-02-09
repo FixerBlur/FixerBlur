@@ -50,11 +50,13 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 </br>
 </br>
 
----
-
- # Contact me:
 <hr>
 <p align="center">
+   <i>Contact with me:</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>
 
 <a target="_blank" href="https://t.me/fixerblur"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/TELEGRAM.svg"></img></a>
 <a target="_blank" href="mailto:fixerblur@outlook.com"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/OUTLOOK.svg"></img></a>
@@ -62,5 +64,4 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <a target="_blank" href="username:fixerblur"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/DISCORD.svg"></img></a>
 <br>
 </p>
-</br>
 

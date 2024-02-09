@@ -63,6 +63,4 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <br>
 </p>
 </br>
-</br>
-</br> 
 

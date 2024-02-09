@@ -16,15 +16,15 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- 📚 Eric Matthes Python Accelerated Course 2021
+ 📚 Eric Matthes Python Accelerated Course 2021
 
-- 🎆 Course W3Schools
+ 🎆 Course W3Schools
 
-- 🏛️ Sololearn Course
+ 🏛️ Sololearn Course
 
-- ♟️ Practical training: CodeWars, LeetCode, PyCheckIO
+ ♟️ Practical training: CodeWars, LeetCode, PyCheckIO
 
-- 🐱 And, of course, many, many hours of video tutorials on YouTube
+ 🐱 And, of course, many, many hours of video tutorials on YouTube
 
 
 - :mailbox: Contact me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fixerblur) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fixerblur@outlook.com)

@@ -27,7 +27,7 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
  🐱 And, of course, many, many hours of video tutorials on YouTube
 
 
-- :mailbox: Contact me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fixerblur) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fixerblur@outlook.com)
+ :mailbox: Contact me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fixerblur) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fixerblur@outlook.com)
 
 ---
 

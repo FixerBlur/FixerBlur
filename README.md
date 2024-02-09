@@ -22,6 +22,8 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
  🏛️ Sololearn Course
 
+ 🐍 Python Docs
+
  ♟️ Practical training: CodeWars, LeetCode, PyCheckIO
 
  🐱 And, of course, many, many hours of video tutorials on YouTube

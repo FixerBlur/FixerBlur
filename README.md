@@ -16,12 +16,39 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- 📚: Eric Matthes Python Accelerated Course 2021
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- 🎆: Course W3Schools
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- 🏛️: Sololearn Course
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-fixerblur-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/fixerblur) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fixerblur@outlook.com)
+- ♟️: Practical training: CodeWars, LeetCode, PyCheckIO
+
+- 🐱: And, of course, many, many hours of video tutorials on YouTube
+
+
+- :mailbox: Contact me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fixerblur) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fixerblur@outlook.com)
 
 ---
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/osint.png" alt="osint" width="100" hight="50">
+<img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/selenium.png" alt="selenium" width="270" hight="50">
+<img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/pycharm.png" alt="pycharm" width="240" hight="50">
+</br>
+<img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>

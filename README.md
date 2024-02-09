@@ -10,8 +10,7 @@
 ---
 
 ### :man_technologist: About me:
-I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-I'm a self-taught programmer who has been studying Python for over a year now, and like all beginners, I started with bots and databases. Then I got interested in data parsing with Selenium, BeautifulSoup, but my learning journey didn't end there, now I'm interested in data analysis. Below I will describe where I got the information for my education:
+I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">I'm a self-taught programmer who has been studying Python for over a year now, and like all beginners, I started with bots and databases. Then I got interested in data parsing with Selenium, BeautifulSoup, but my learning journey didn't end there, now I'm interested in data analysis. Below I will describe where I got the information for my education:
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>

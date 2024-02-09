@@ -26,9 +26,6 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
  🐱 And, of course, many, many hours of video tutorials on YouTube
 
-
- :mailbox: Contact me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fixerblur) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:fixerblur@outlook.com)
-
 ---
 
 # Languages & Tools 👨‍💻 🛠:
@@ -54,14 +51,14 @@ I work with Python<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 </br>
 
 <hr>
+</br>
 <p align="center">
   # Contact me:
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/TELEGRAM.svg"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://public.tableau.com/app/profile/thomas.george.thomas"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas-george-thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://t.me/fixerblur"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/TELEGRAM.svg"></img></a>
+<a target="_blank" href="mailto:fixerblur@outlook.com"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/OUTLOOK.svg"></img></a>
+<a target="_blank" href="https://twitter.com/fixerblurGG"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/X.svg"></img></a>
+<a target="_blank" href="username:fixerblur"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/DISCORD.svg"></img></a>
 
 <br>
 </p>  
